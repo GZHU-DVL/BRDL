@@ -3,22 +3,22 @@
 ###### A python implement for BRDL based on PyTorch framework.
 
 ## 1. Setup
-#### Installation
+### Installation
 
-- create and activate the environment
+- Create and activate the environment
 
 	```shell
 	conda create -n BRDL python=3.7
 	conda activate BRDL
 	```
 
-- install pytorch
+- Install pytorch
 
 	```shell
 	conda install pytorch==1.9.1 torchvision==0.10.1 torchaudio==0.9.1 cudatoolkit=11.3 -c pytorch -c conda-forge
 	```
 
-- install other dependencies
+- Install other dependencies
 
 	```shell
 	pip install tensorboard transforms3d h5py torch-cluster==1.5.9 scikit-learn 
@@ -26,7 +26,7 @@
 
 	
 
-#### Dataset preparation
+### Data preparation
 
 - For S3DIS dataset
 
