@@ -1,6 +1,6 @@
 # Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation
 
-###### A python implement for BRDL based on PyTorch framework.
+A python implement for BRDL based on PyTorch framework.
 
 ## 1. Setup
 ### Installation
