@@ -3,7 +3,7 @@
 ###### A python implement for BRDL based on PyTorch framework.
 
 ## 1. Setup
-###### Installation
+#### Installation
 
 - create and activate the environment
 
@@ -26,7 +26,7 @@
 
 	
 
-###### Dataset preparation
+#### Dataset preparation
 
 - For S3DIS dataset
 
